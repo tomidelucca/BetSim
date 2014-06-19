@@ -1,0 +1,6 @@
+River vs. Quilmes
+Resultado;Gana Local:1.4;Empate:4.5;Gana Visitante:11.2
+Cantidad de goles;<1.5:5.3;>1.5:2.1
+Cantidad de tarjetas amarillas;<5.5:3.2;>5.5:2.8
+Cantidad de tarjetas rojas;<1.5:2;>1.5:4
+Cantidad de corners;<10.5:3.4;>10.5:7.1

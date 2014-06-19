@@ -1,0 +1,262 @@
+User: 41 | Event: River vs. Quilmes | Item: Resultado | Option: Gana Visitante | Amount: 83.0 | Pays: 11.2 - Lost.
+User: 31 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: <1.5 | Amount: 73.0 | Pays: 2.0 - Won: 146.0. 
+User: 30 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: <10.5 | Amount: 9.0 | Pays: 3.4 - Lost.
+User: 29 | Event: River vs. Quilmes | Item: Resultado | Option: Gana Local | Amount: 59.0 | Pays: 1.4 - Won: 82.6. 
+User: 8 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: >1.5 | Amount: 90.0 | Pays: 2.1 - Won: 189.0. 
+User: 17 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: <1.5 | Amount: 95.0 | Pays: 2.0 - Won: 190.0. 
+User: 2 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: >1.5 | Amount: 48.0 | Pays: 6.26 - Lost.
+User: 5 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: <1.5 | Amount: 41.0 | Pays: 5.3 - Lost.
+User: 31 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: <1.5 | Amount: 37.0 | Pays: 3.64 - Lost.
+User: 4 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: >1.5 | Amount: 1.0 | Pays: 3.37 - Won: 3.37. 
+User: 5 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: >10.5 | Amount: 17.0 | Pays: 7.1 - Won: 120.7. 
+User: 2 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: >10.5 | Amount: 49.0 | Pays: 2.46 - Won: 120.54. 
+User: 10 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: <10.5 | Amount: 60.0 | Pays: 9.29 - Lost.
+User: 38 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: >10.5 | Amount: 4.0 | Pays: 1.46 - Won: 5.84. 
+User: 0 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: <1.5 | Amount: 7.0 | Pays: 1.23 - Won: 8.61. 
+User: 31 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: <1.5 | Amount: 15.0 | Pays: 2.86 - Lost.
+User: 31 | Event: River vs. Quilmes | Item: Resultado | Option: Gana Visitante | Amount: 5.0 | Pays: 15.85 - Lost.
+User: 29 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: >10.5 | Amount: 64.0 | Pays: 1.42 - Won: 90.88. 
+User: 44 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: <1.5 | Amount: 20.0 | Pays: 1.19 - Won: 23.8. 
+User: 30 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: <1.5 | Amount: 11.0 | Pays: 2.63 - Lost.
+User: 19 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: <10.5 | Amount: 71.0 | Pays: 6.98 - Lost.
+User: 49 | Event: River vs. Quilmes | Item: Resultado | Option: Gana Visitante | Amount: 32.0 | Pays: 15.31 - Lost.
+User: 21 | Event: River vs. Quilmes | Item: Cantidad de tarjetas amarillas | Option: >5.5 | Amount: 72.0 | Pays: 2.8 - Won: 201.6. 
+User: 31 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: <1.5 | Amount: 32.0 | Pays: 1.09 - Won: 34.88. 
+User: 35 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: >10.5 | Amount: 88.0 | Pays: 1.27 - Won: 111.76. 
+User: 15 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: >1.5 | Amount: 86.0 | Pays: 6.06 - Lost.
+User: 44 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: >1.5 | Amount: 67.0 | Pays: 3.82 - Won: 255.94. 
+User: 31 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: <1.5 | Amount: 76.0 | Pays: 1.25 - Won: 95.0. 
+User: 11 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: <1.5 | Amount: 5.0 | Pays: 3.11 - Lost.
+User: 5 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: <1.5 | Amount: 48.0 | Pays: 1.03 - Won: 49.44. 
+User: 49 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: >1.5 | Amount: 92.0 | Pays: 2.89 - Won: 265.88. 
+User: 37 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: <1.5 | Amount: 43.0 | Pays: 1.01 - Won: 43.43. 
+User: 43 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: <1.5 | Amount: 6.0 | Pays: 1.01 - Won: 6.06. 
+User: 2 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: >10.5 | Amount: 42.0 | Pays: 1.01 - Won: 42.42. 
+User: 2 | Event: River vs. Quilmes | Item: Cantidad de tarjetas amarillas | Option: >5.5 | Amount: 23.0 | Pays: 2.8 - Won: 64.4. 
+User: 16 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: <10.5 | Amount: 80.0 | Pays: 7.1 - Lost.
+User: 40 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: <10.5 | Amount: 85.0 | Pays: 5.93 - Lost.
+User: 11 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: <1.5 | Amount: 72.0 | Pays: 3.83 - Lost.
+User: 49 | Event: River vs. Quilmes | Item: Resultado | Option: Gana Local | Amount: 17.0 | Pays: 1.23 - Won: 20.91. 
+User: 2 | Event: River vs. Quilmes | Item: Cantidad de tarjetas amarillas | Option: >5.5 | Amount: 19.0 | Pays: 2.12 - Won: 40.28. 
+User: 6 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: >10.5 | Amount: 60.0 | Pays: 1.36 - Won: 81.6. 
+User: 34 | Event: River vs. Quilmes | Item: Cantidad de tarjetas amarillas | Option: <5.5 | Amount: 42.0 | Pays: 4.63 - Lost.
+User: 21 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: <1.5 | Amount: 11.0 | Pays: 3.19 - Lost.
+User: 12 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: >1.5 | Amount: 4.0 | Pays: 6.52 - Lost.
+User: 15 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: <10.5 | Amount: 23.0 | Pays: 5.52 - Lost.
+User: 46 | Event: River vs. Quilmes | Item: Cantidad de tarjetas amarillas | Option: <5.5 | Amount: 36.0 | Pays: 3.38 - Lost.
+User: 49 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: <10.5 | Amount: 3.0 | Pays: 5.33 - Lost.
+User: 47 | Event: River vs. Quilmes | Item: Cantidad de tarjetas amarillas | Option: <5.5 | Amount: 58.0 | Pays: 2.75 - Lost.
+User: 47 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: >10.5 | Amount: 87.0 | Pays: 1.28 - Won: 111.36. 
+User: 18 | Event: River vs. Quilmes | Item: Resultado | Option: Gana Local | Amount: 69.0 | Pays: 1.12 - Won: 77.28. 
+User: 40 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: <1.5 | Amount: 73.0 | Pays: 3.11 - Lost.
+User: 6 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: >1.5 | Amount: 51.0 | Pays: 6.47 - Lost.
+User: 42 | Event: River vs. Quilmes | Item: Resultado | Option: Empate | Amount: 25.0 | Pays: 10.64 - Lost.
+User: 5 | Event: River vs. Quilmes | Item: Resultado | Option: Gana Visitante | Amount: 72.0 | Pays: 18.7 - Lost.
+User: 8 | Event: River vs. Quilmes | Item: Resultado | Option: Gana Visitante | Amount: 61.0 | Pays: 14.98 - Lost.
+User: 11 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: <1.5 | Amount: 35.0 | Pays: 1.1 - Won: 38.5. 
+User: 3 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: <10.5 | Amount: 86.0 | Pays: 5.93 - Lost.
+User: 43 | Event: River vs. Quilmes | Item: Resultado | Option: Gana Visitante | Amount: 19.0 | Pays: 12.82 - Lost.
+User: 24 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: >1.5 | Amount: 9.0 | Pays: 6.24 - Lost.
+User: 35 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: >10.5 | Amount: 81.0 | Pays: 1.25 - Won: 101.25. 
+User: 40 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: <1.5 | Amount: 17.0 | Pays: 1.05 - Won: 17.85. 
+User: 9 | Event: River vs. Quilmes | Item: Cantidad de tarjetas amarillas | Option: >5.5 | Amount: 29.0 | Pays: 3.29 - Won: 95.41. 
+User: 3 | Event: River vs. Quilmes | Item: Resultado | Option: Gana Local | Amount: 7.0 | Pays: 1.57 - Won: 10.99. 
+User: 17 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: >1.5 | Amount: 61.0 | Pays: 6.31 - Lost.
+User: 14 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: >1.5 | Amount: 20.0 | Pays: 5.77 - Lost.
+User: 2 | Event: River vs. Quilmes | Item: Resultado | Option: Gana Local | Amount: 11.0 | Pays: 1.55 - Won: 17.05. 
+User: 47 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: <10.5 | Amount: 72.0 | Pays: 5.78 - Lost.
+User: 12 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: <10.5 | Amount: 79.0 | Pays: 5.36 - Lost.
+User: 1 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: <10.5 | Amount: 18.0 | Pays: 4.96 - Lost.
+User: 0 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: >10.5 | Amount: 30.0 | Pays: 1.33 - Won: 39.9. 
+User: 9 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: <10.5 | Amount: 6.0 | Pays: 5.01 - Lost.
+User: 8 | Event: River vs. Quilmes | Item: Resultado | Option: Gana Visitante | Amount: 85.0 | Pays: 12.76 - Lost.
+User: 17 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: >1.5 | Amount: 31.0 | Pays: 5.61 - Lost.
+User: 30 | Event: River vs. Quilmes | Item: Resultado | Option: Gana Local | Amount: 12.0 | Pays: 1.75 - Won: 21.0. 
+User: 30 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: >1.5 | Amount: 19.0 | Pays: 5.38 - Lost.
+User: 35 | Event: River vs. Quilmes | Item: Resultado | Option: Gana Visitante | Amount: 31.0 | Pays: 11.0 - Lost.
+User: 7 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: <1.5 | Amount: 56.0 | Pays: 1.22 - Won: 68.32. 
+User: 44 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: <1.5 | Amount: 36.0 | Pays: 1.14 - Won: 41.04. 
+User: 11 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: >10.5 | Amount: 79.0 | Pays: 1.3 - Won: 102.7. 
+User: 25 | Event: River vs. Quilmes | Item: Resultado | Option: Gana Visitante | Amount: 24.0 | Pays: 10.42 - Lost.
+User: 17 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: >1.5 | Amount: 65.0 | Pays: 2.93 - Won: 190.45. 
+User: 1 | Event: River vs. Quilmes | Item: Cantidad de tarjetas amarillas | Option: <5.5 | Amount: 94.0 | Pays: 2.33 - Lost.
+User: 47 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: >1.5 | Amount: 89.0 | Pays: 2.6 - Won: 231.4. 
+User: 37 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: <1.5 | Amount: 10.0 | Pays: 1.09 - Won: 10.9. 
+User: 21 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: >10.5 | Amount: 48.0 | Pays: 1.21 - Won: 58.08. 
+User: 44 | Event: River vs. Quilmes | Item: Resultado | Option: Gana Visitante | Amount: 27.0 | Pays: 10.01 - Lost.
+User: 41 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: >1.5 | Amount: 17.0 | Pays: 2.25 - Won: 38.25. 
+User: 7 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: <1.5 | Amount: 77.0 | Pays: 3.45 - Lost.
+User: 29 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: <10.5 | Amount: 20.0 | Pays: 5.52 - Lost.
+User: 33 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: >1.5 | Amount: 24.0 | Pays: 2.41 - Won: 57.84. 
+User: 48 | Event: River vs. Quilmes | Item: Resultado | Option: Gana Local | Amount: 45.0 | Pays: 1.95 - Won: 87.75. 
+User: 11 | Event: River vs. Quilmes | Item: Resultado | Option: Empate | Amount: 54.0 | Pays: 20.76 - Lost.
+User: 11 | Event: River vs. Quilmes | Item: Cantidad de tarjetas amarillas | Option: >5.5 | Amount: 94.0 | Pays: 3.69 - Won: 346.86. 
+User: 0 | Event: River vs. Quilmes | Item: Resultado | Option: Gana Local | Amount: 65.0 | Pays: 1.95 - Won: 126.75. 
+User: 16 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: >1.5 | Amount: 9.0 | Pays: 5.9 - Lost.
+User: 11 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: <1.5 | Amount: 92.0 | Pays: 3.19 - Lost.
+User: 16 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: <1.5 | Amount: 4.0 | Pays: 1.09 - Won: 4.36. 
+User: 47 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: <1.5 | Amount: 24.0 | Pays: 1.09 - Won: 26.16. 
+User: 27 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: <1.5 | Amount: 5.0 | Pays: 2.86 - Lost.
+User: 20 | Event: River vs. Quilmes | Item: Cantidad de tarjetas amarillas | Option: >5.5 | Amount: 11.0 | Pays: 2.95 - Won: 32.45. 
+User: 9 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: >1.5 | Amount: 8.0 | Pays: 6.02 - Lost.
+User: 11 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: >10.5 | Amount: 31.0 | Pays: 1.18 - Won: 36.58. 
+User: 42 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: <10.5 | Amount: 64.0 | Pays: 5.56 - Lost.
+User: 8 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: <10.5 | Amount: 99.0 | Pays: 5.3 - Lost.
+User: 6 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: >1.5 | Amount: 26.0 | Pays: 2.59 - Won: 67.34. 
+User: 23 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: >1.5 | Amount: 24.0 | Pays: 5.97 - Lost.
+User: 41 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: <10.5 | Amount: 96.0 | Pays: 4.94 - Lost.
+User: 23 | Event: River vs. Quilmes | Item: Resultado | Option: Empate | Amount: 47.0 | Pays: 20.8 - Lost.
+User: 20 | Event: River vs. Quilmes | Item: Cantidad de tarjetas amarillas | Option: <5.5 | Amount: 5.0 | Pays: 2.14 - Lost.
+User: 41 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: >1.5 | Amount: 42.0 | Pays: 2.52 - Won: 105.84. 
+User: 35 | Event: River vs. Quilmes | Item: Cantidad de tarjetas amarillas | Option: <5.5 | Amount: 90.0 | Pays: 2.12 - Lost.
+User: 39 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: >1.5 | Amount: 78.0 | Pays: 2.41 - Won: 187.98. 
+User: 19 | Event: River vs. Quilmes | Item: Resultado | Option: Gana Local | Amount: 71.0 | Pays: 1.89 - Won: 134.19. 
+User: 7 | Event: River vs. Quilmes | Item: Resultado | Option: Empate | Amount: 61.0 | Pays: 21.16 - Lost.
+User: 25 | Event: River vs. Quilmes | Item: Resultado | Option: Empate | Amount: 97.0 | Pays: 19.85 - Lost.
+User: 17 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: <1.5 | Amount: 63.0 | Pays: 3.28 - Lost.
+User: 40 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: <1.5 | Amount: 3.0 | Pays: 3.09 - Lost.
+User: 44 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: >1.5 | Amount: 88.0 | Pays: 5.82 - Lost.
+User: 8 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: >1.5 | Amount: 29.0 | Pays: 2.37 - Won: 68.73. 
+User: 36 | Event: River vs. Quilmes | Item: Cantidad de tarjetas amarillas | Option: >5.5 | Amount: 23.0 | Pays: 3.37 - Won: 77.51. 
+User: 22 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: >1.5 | Amount: 15.0 | Pays: 5.33 - Lost.
+User: 39 | Event: River vs. Quilmes | Item: Resultado | Option: Gana Local | Amount: 80.0 | Pays: 2.02 - Won: 161.6. 
+User: 29 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: >1.5 | Amount: 87.0 | Pays: 5.25 - Lost.
+User: 5 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: <1.5 | Amount: 53.0 | Pays: 1.3 - Won: 68.9. 
+User: 2 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: >10.5 | Amount: 34.0 | Pays: 1.36 - Won: 46.24. 
+User: 32 | Event: River vs. Quilmes | Item: Cantidad de tarjetas amarillas | Option: >5.5 | Amount: 82.0 | Pays: 3.24 - Won: 265.68. 
+User: 0 | Event: River vs. Quilmes | Item: Cantidad de tarjetas amarillas | Option: <5.5 | Amount: 61.0 | Pays: 2.08 - Lost.
+User: 28 | Event: River vs. Quilmes | Item: Resultado | Option: Empate | Amount: 22.0 | Pays: 19.32 - Lost.
+User: 11 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: >10.5 | Amount: 47.0 | Pays: 1.33 - Won: 62.51. 
+User: 11 | Event: River vs. Quilmes | Item: Resultado | Option: Gana Local | Amount: 34.0 | Pays: 1.92 - Won: 65.28. 
+User: 33 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: >10.5 | Amount: 22.0 | Pays: 1.29 - Won: 28.38. 
+User: 44 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: <1.5 | Amount: 34.0 | Pays: 3.16 - Lost.
+User: 27 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: >1.5 | Amount: 58.0 | Pays: 2.38 - Won: 138.04. 
+User: 7 | Event: River vs. Quilmes | Item: Resultado | Option: Gana Visitante | Amount: 0.0 | Pays: 17.49 - Lost.
+User: 5 | Event: River vs. Quilmes | Item: Cantidad de tarjetas amarillas | Option: <5.5 | Amount: 65.0 | Pays: 1.91 - Lost.
+User: 29 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: >1.5 | Amount: 93.0 | Pays: 2.27 - Won: 211.11. 
+User: 5 | Event: River vs. Quilmes | Item: Cantidad de tarjetas amarillas | Option: <5.5 | Amount: 79.0 | Pays: 1.76 - Lost.
+User: 43 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: >10.5 | Amount: 23.0 | Pays: 1.27 - Won: 29.21. 
+User: 33 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: <10.5 | Amount: 55.0 | Pays: 5.0 - Lost.
+User: 27 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: <1.5 | Amount: 86.0 | Pays: 1.24 - Won: 106.64. 
+User: 47 | Event: River vs. Quilmes | Item: Resultado | Option: Gana Local | Amount: 48.0 | Pays: 1.87 - Won: 89.76. 
+User: 33 | Event: River vs. Quilmes | Item: Cantidad de tarjetas amarillas | Option: >5.5 | Amount: 33.0 | Pays: 3.64 - Won: 120.12. 
+User: 22 | Event: River vs. Quilmes | Item: Cantidad de tarjetas amarillas | Option: >5.5 | Amount: 65.0 | Pays: 3.51 - Won: 228.15. 
+User: 48 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: <1.5 | Amount: 71.0 | Pays: 1.16 - Won: 82.36. 
+User: 36 | Event: River vs. Quilmes | Item: Cantidad de tarjetas amarillas | Option: >5.5 | Amount: 33.0 | Pays: 3.28 - Won: 108.24. 
+User: 33 | Event: River vs. Quilmes | Item: Resultado | Option: Gana Visitante | Amount: 33.0 | Pays: 18.15 - Lost.
+User: 41 | Event: River vs. Quilmes | Item: Resultado | Option: Gana Visitante | Amount: 77.0 | Pays: 17.69 - Lost.
+User: 32 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: >1.5 | Amount: 48.0 | Pays: 5.69 - Lost.
+User: 11 | Event: River vs. Quilmes | Item: Resultado | Option: Gana Visitante | Amount: 63.0 | Pays: 16.7 - Lost.
+User: 23 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: <1.5 | Amount: 76.0 | Pays: 3.45 - Lost.
+User: 48 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: >10.5 | Amount: 17.0 | Pays: 1.29 - Won: 21.93. 
+User: 18 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: <1.5 | Amount: 12.0 | Pays: 3.26 - Lost.
+User: 11 | Event: River vs. Quilmes | Item: Cantidad de tarjetas amarillas | Option: <5.5 | Amount: 78.0 | Pays: 1.83 - Lost.
+User: 40 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: <10.5 | Amount: 39.0 | Pays: 4.89 - Lost.
+User: 23 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: >1.5 | Amount: 21.0 | Pays: 2.25 - Won: 47.25. 
+User: 7 | Event: River vs. Quilmes | Item: Resultado | Option: Empate | Amount: 1.0 | Pays: 22.87 - Lost.
+User: 42 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: <1.5 | Amount: 69.0 | Pays: 3.28 - Lost.
+User: 27 | Event: River vs. Quilmes | Item: Resultado | Option: Empate | Amount: 81.0 | Pays: 22.85 - Lost.
+User: 44 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: >10.5 | Amount: 99.0 | Pays: 1.31 - Won: 129.69. 
+User: 32 | Event: River vs. Quilmes | Item: Resultado | Option: Gana Visitante | Amount: 93.0 | Pays: 16.83 - Lost.
+User: 10 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: >1.5 | Amount: 14.0 | Pays: 2.32 - Won: 32.48. 
+User: 40 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: >10.5 | Amount: 39.0 | Pays: 1.24 - Won: 48.36. 
+User: 39 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: <1.5 | Amount: 53.0 | Pays: 1.14 - Won: 60.42. 
+User: 33 | Event: River vs. Quilmes | Item: Resultado | Option: Empate | Amount: 94.0 | Pays: 22.88 - Lost.
+User: 12 | Event: River vs. Quilmes | Item: Cantidad de tarjetas amarillas | Option: >5.5 | Amount: 3.0 | Pays: 3.4 - Won: 10.2. 
+User: 44 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: <1.5 | Amount: 56.0 | Pays: 1.1 - Won: 61.6. 
+User: 22 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: >1.5 | Amount: 74.0 | Pays: 2.3 - Won: 170.2. 
+User: 46 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: <1.5 | Amount: 91.0 | Pays: 3.31 - Lost.
+User: 28 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: >1.5 | Amount: 69.0 | Pays: 5.9 - Lost.
+User: 16 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: >10.5 | Amount: 60.0 | Pays: 1.21 - Won: 72.6. 
+User: 31 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: >1.5 | Amount: 49.0 | Pays: 2.31 - Won: 113.19. 
+User: 17 | Event: River vs. Quilmes | Item: Cantidad de tarjetas amarillas | Option: <5.5 | Amount: 42.0 | Pays: 1.7 - Lost.
+User: 36 | Event: River vs. Quilmes | Item: Cantidad de tarjetas amarillas | Option: >5.5 | Amount: 21.0 | Pays: 3.52 - Won: 73.92. 
+User: 40 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: >1.5 | Amount: 90.0 | Pays: 5.64 - Lost.
+User: 18 | Event: River vs. Quilmes | Item: Resultado | Option: Empate | Amount: 81.0 | Pays: 21.62 - Lost.
+User: 25 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: >1.5 | Amount: 63.0 | Pays: 5.34 - Lost.
+User: 23 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: >1.5 | Amount: 76.0 | Pays: 2.24 - Won: 170.24. 
+User: 34 | Event: River vs. Quilmes | Item: Resultado | Option: Empate | Amount: 64.0 | Pays: 20.64 - Lost.
+User: 38 | Event: River vs. Quilmes | Item: Cantidad de tarjetas amarillas | Option: <5.5 | Amount: 96.0 | Pays: 1.67 - Lost.
+User: 2 | Event: River vs. Quilmes | Item: Cantidad de tarjetas amarillas | Option: <5.5 | Amount: 6.0 | Pays: 1.54 - Lost.
+User: 49 | Event: River vs. Quilmes | Item: Resultado | Option: Empate | Amount: 34.0 | Pays: 19.93 - Lost.
+User: 38 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: <1.5 | Amount: 68.0 | Pays: 3.36 - Lost.
+User: 47 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: <1.5 | Amount: 37.0 | Pays: 1.21 - Won: 44.77. 
+User: 25 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: <10.5 | Amount: 21.0 | Pays: 5.28 - Lost.
+User: 13 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: <10.5 | Amount: 55.0 | Pays: 5.22 - Lost.
+User: 39 | Event: River vs. Quilmes | Item: Cantidad de tarjetas amarillas | Option: <5.5 | Amount: 56.0 | Pays: 1.53 - Lost.
+User: 46 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: <1.5 | Amount: 19.0 | Pays: 1.18 - Won: 22.42. 
+User: 40 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: <10.5 | Amount: 88.0 | Pays: 5.08 - Lost.
+User: 43 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: <1.5 | Amount: 91.0 | Pays: 1.17 - Won: 106.47. 
+User: 44 | Event: River vs. Quilmes | Item: Resultado | Option: Gana Local | Amount: 98.0 | Pays: 2.65 - Won: 259.7. 
+User: 32 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: >1.5 | Amount: 43.0 | Pays: 5.58 - Lost.
+User: 46 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: <1.5 | Amount: 89.0 | Pays: 3.24 - Lost.
+User: 34 | Event: River vs. Quilmes | Item: Cantidad de tarjetas amarillas | Option: >5.5 | Amount: 28.0 | Pays: 3.9 - Won: 109.2. 
+User: 23 | Event: River vs. Quilmes | Item: Cantidad de tarjetas amarillas | Option: >5.5 | Amount: 74.0 | Pays: 3.82 - Won: 282.68. 
+User: 22 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: >1.5 | Amount: 0.0 | Pays: 2.33 - Won: 0.0. 
+User: 35 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: <10.5 | Amount: 0.0 | Pays: 4.87 - Lost.
+User: 4 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: >10.5 | Amount: 13.0 | Pays: 1.26 - Won: 16.38. 
+User: 2 | Event: River vs. Quilmes | Item: Resultado | Option: Gana Visitante | Amount: 6.0 | Pays: 19.34 - Lost.
+User: 40 | Event: River vs. Quilmes | Item: Resultado | Option: Gana Local | Amount: 60.0 | Pays: 2.53 - Won: 151.8. 
+User: 21 | Event: River vs. Quilmes | Item: Cantidad de tarjetas amarillas | Option: <5.5 | Amount: 53.0 | Pays: 1.57 - Lost.
+User: 27 | Event: River vs. Quilmes | Item: Cantidad de tarjetas amarillas | Option: <5.5 | Amount: 32.0 | Pays: 1.51 - Lost.
+User: 7 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: <1.5 | Amount: 16.0 | Pays: 3.09 - Lost.
+User: 47 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: >1.5 | Amount: 21.0 | Pays: 2.35 - Won: 49.35. 
+User: 27 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: >1.5 | Amount: 40.0 | Pays: 5.46 - Lost.
+User: 11 | Event: River vs. Quilmes | Item: Cantidad de tarjetas amarillas | Option: <5.5 | Amount: 70.0 | Pays: 1.48 - Lost.
+User: 7 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: <1.5 | Amount: 9.0 | Pays: 1.15 - Won: 10.35. 
+User: 22 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: <1.5 | Amount: 8.0 | Pays: 3.09 - Lost.
+User: 21 | Event: River vs. Quilmes | Item: Resultado | Option: Gana Visitante | Amount: 14.0 | Pays: 19.84 - Lost.
+User: 0 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: <1.5 | Amount: 51.0 | Pays: 1.14 - Won: 58.14. 
+User: 37 | Event: River vs. Quilmes | Item: Cantidad de tarjetas amarillas | Option: <5.5 | Amount: 23.0 | Pays: 1.41 - Lost.
+User: 29 | Event: River vs. Quilmes | Item: Cantidad de tarjetas amarillas | Option: <5.5 | Amount: 54.0 | Pays: 1.39 - Lost.
+User: 47 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: <1.5 | Amount: 90.0 | Pays: 1.11 - Won: 99.9. 
+User: 26 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: <1.5 | Amount: 35.0 | Pays: 3.08 - Lost.
+User: 48 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: >1.5 | Amount: 51.0 | Pays: 5.74 - Lost.
+User: 19 | Event: River vs. Quilmes | Item: Resultado | Option: Gana Visitante | Amount: 21.0 | Pays: 19.71 - Lost.
+User: 3 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: <1.5 | Amount: 11.0 | Pays: 1.09 - Won: 11.99. 
+User: 15 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: >1.5 | Amount: 85.0 | Pays: 5.63 - Lost.
+User: 30 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: <1.5 | Amount: 19.0 | Pays: 3.03 - Lost.
+User: 28 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: <1.5 | Amount: 90.0 | Pays: 3.0 - Lost.
+User: 37 | Event: River vs. Quilmes | Item: Cantidad de tarjetas amarillas | Option: <5.5 | Amount: 58.0 | Pays: 1.34 - Lost.
+User: 16 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: <10.5 | Amount: 16.0 | Pays: 4.9 - Lost.
+User: 29 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: <1.5 | Amount: 19.0 | Pays: 1.12 - Won: 21.28. 
+User: 37 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: >1.5 | Amount: 48.0 | Pays: 2.5 - Won: 120.0. 
+User: 48 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: >1.5 | Amount: 1.0 | Pays: 5.47 - Lost.
+User: 29 | Event: River vs. Quilmes | Item: Resultado | Option: Empate | Amount: 41.0 | Pays: 21.56 - Lost.
+User: 11 | Event: River vs. Quilmes | Item: Cantidad de tarjetas amarillas | Option: >5.5 | Amount: 66.0 | Pays: 4.33 - Won: 285.78. 
+User: 14 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: <10.5 | Amount: 25.0 | Pays: 4.86 - Lost.
+User: 16 | Event: River vs. Quilmes | Item: Resultado | Option: Gana Visitante | Amount: 95.0 | Pays: 19.89 - Lost.
+User: 4 | Event: River vs. Quilmes | Item: Resultado | Option: Gana Local | Amount: 84.0 | Pays: 2.67 - Won: 224.28. 
+User: 11 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: <1.5 | Amount: 11.0 | Pays: 1.11 - Won: 12.21. 
+User: 22 | Event: River vs. Quilmes | Item: Cantidad de tarjetas amarillas | Option: >5.5 | Amount: 62.0 | Pays: 4.17 - Won: 258.54. 
+User: 45 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: <1.5 | Amount: 22.0 | Pays: 2.93 - Lost.
+User: 45 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: <1.5 | Amount: 91.0 | Pays: 1.1 - Won: 100.1. 
+User: 18 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: <10.5 | Amount: 6.0 | Pays: 4.8 - Lost.
+User: 11 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: >10.5 | Amount: 36.0 | Pays: 1.27 - Won: 45.72. 
+User: 25 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: >1.5 | Amount: 35.0 | Pays: 5.71 - Lost.
+User: 26 | Event: River vs. Quilmes | Item: Resultado | Option: Gana Visitante | Amount: 24.0 | Pays: 19.73 - Lost.
+User: 16 | Event: River vs. Quilmes | Item: Resultado | Option: Empate | Amount: 61.0 | Pays: 23.09 - Lost.
+User: 37 | Event: River vs. Quilmes | Item: Resultado | Option: Gana Local | Amount: 80.0 | Pays: 2.67 - Won: 213.6. 
+User: 16 | Event: River vs. Quilmes | Item: Resultado | Option: Empate | Amount: 12.0 | Pays: 23.23 - Lost.
+User: 5 | Event: River vs. Quilmes | Item: Cantidad de tarjetas amarillas | Option: <5.5 | Amount: 83.0 | Pays: 1.39 - Lost.
+User: 19 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: >1.5 | Amount: 60.0 | Pays: 2.47 - Won: 148.2. 
+User: 40 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: <1.5 | Amount: 50.0 | Pays: 1.08 - Won: 54.0. 
+User: 0 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: >1.5 | Amount: 47.0 | Pays: 5.74 - Lost.
+User: 4 | Event: River vs. Quilmes | Item: Resultado | Option: Gana Visitante | Amount: 97.0 | Pays: 20.78 - Lost.
+User: 22 | Event: River vs. Quilmes | Item: Cantidad de tarjetas amarillas | Option: >5.5 | Amount: 10.0 | Pays: 4.2 - Won: 42.0. 
+User: 2 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: <1.5 | Amount: 67.0 | Pays: 2.98 - Lost.
+User: 1 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: >10.5 | Amount: 56.0 | Pays: 1.25 - Won: 70.0. 
+User: 38 | Event: River vs. Quilmes | Item: Cantidad de tarjetas amarillas | Option: <5.5 | Amount: 29.0 | Pays: 1.34 - Lost.
+User: 2 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: >10.5 | Amount: 38.0 | Pays: 1.22 - Won: 46.36. 
+User: 34 | Event: River vs. Quilmes | Item: Resultado | Option: Gana Visitante | Amount: 69.0 | Pays: 20.0 - Lost.
+User: 8 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: <1.5 | Amount: 69.0 | Pays: 2.89 - Lost.
+User: 21 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: <10.5 | Amount: 10.0 | Pays: 5.07 - Lost.
+User: 26 | Event: River vs. Quilmes | Item: Cantidad de tarjetas rojas | Option: <1.5 | Amount: 78.0 | Pays: 1.08 - Won: 84.24. 
+User: 46 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: <10.5 | Amount: 93.0 | Pays: 5.05 - Lost.
+User: 4 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: >10.5 | Amount: 39.0 | Pays: 1.26 - Won: 49.14. 
+User: 20 | Event: River vs. Quilmes | Item: Resultado | Option: Empate | Amount: 96.0 | Pays: 24.62 - Lost.
+User: 13 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: >10.5 | Amount: 27.0 | Pays: 1.24 - Won: 33.48. 
+User: 26 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: >10.5 | Amount: 73.0 | Pays: 1.23 - Won: 89.79. 
+User: 14 | Event: River vs. Quilmes | Item: Cantidad de goles | Option: <1.5 | Amount: 63.0 | Pays: 2.81 - Lost.
+User: 36 | Event: River vs. Quilmes | Item: Cantidad de corners | Option: >10.5 | Amount: 24.0 | Pays: 1.2 - Won: 28.8. 
+
